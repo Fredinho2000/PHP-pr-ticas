@@ -1,1 +1,1 @@
-# PHP-pr-ticas
+# PHP-praticas
